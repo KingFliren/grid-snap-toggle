@@ -1,0 +1,29 @@
+{
+  "id": "grid-snap-toggle",
+  "title": "Grid Snap Toggle",
+  "description": "Adds a button to toggle grid snapping for GMs.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Your Name",
+      "email": "your.email@example.com",
+      "url": "https://your-website.com"
+    }
+  ],
+  "esmodules": ["scripts/grid-snap-toggle.js"],
+  "styles": ["styles/grid-snap-toggle.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "url": "https://github.com/KingFliren/grid-snap-toggle",
+  "manifest": "https://raw.githubusercontent.com/KingFliren/grid-snap-toggle/main/module.json",
+  "download": "https://github.com/KingFliren/grid-snap-toggle/archive/v1.0.0.zip"
+}
